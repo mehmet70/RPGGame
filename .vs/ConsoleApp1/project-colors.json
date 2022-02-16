@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7a35f88e-9611-4a90-8247-db58bcf2e60e": {
+      "ProjectGuid": "7a35f88e-9611-4a90-8247-db58bcf2e60e",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 0
+    },
+    "1d3c5de7-c8ee-49e6-810b-672630051ba2": {
+      "ProjectGuid": "1d3c5de7-c8ee-49e6-810b-672630051ba2",
+      "DisplayName": "RPGGameTests",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
